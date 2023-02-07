@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/64ib40u2damuekxs?svg=true)](https://ci.appveyor.com/project/MillaDom/postmanecho)
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 ## Задача №3 - Postman Echo
